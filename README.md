@@ -9,3 +9,5 @@ After installing SageMath, run (from this directory)
 ```bash
 sage -n jupyter proba.ipynb
 ```
+
+The scripts here are confirmed to work on SageMath 10.0.
